@@ -40,7 +40,7 @@ public class Main {
         //Для пользователей телефонов 2015 года выпуска и позже нужно вывести обычное предложение об установке приложения.
         //
         //Для года создания телефона используйте переменную clientDeviceYear, в которой необходимо указать 2015 год.//
-        public static void task2(){
+        public static void task2() {
             System.out.println( "задача 2 ");
 
             int clientOS = 0;
