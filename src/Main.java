@@ -47,7 +47,7 @@ public class Main {
             int clientDeviceYear = 2020;
 
             if (clientOS == 0) {
-                if ( clientDeviceYear < 2015) {
+                if ( clientDeviceYear < 2015)  {
                     System.out.println("Установите облегченную версию приложения для IOS по ссылке ");
                 } else {
                     System.out.println("Установите версию приложения для IOS по ссылке ");
